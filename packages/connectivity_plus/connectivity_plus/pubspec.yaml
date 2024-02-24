@@ -43,7 +43,7 @@ dependencies:
     git:
       url: https://github.com/suquant/plus_plugins
       path: packages/connectivity_plus/connectivity_plus_platform_interface
-      ref: e654491
+      ref: f5aa7846
   
   js: ^0.6.4
   meta: ^1.8.0
