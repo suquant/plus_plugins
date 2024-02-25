@@ -44,10 +44,9 @@ dependencies:
       url: https://github.com/suquant/plus_plugins
       path: packages/connectivity_plus/connectivity_plus_platform_interface
       ref: f5aa7846
-  
-  js: ^0.6.4
-  meta: ^1.8.0
-  nm: ^0.5.0
+  js: ">=0.6.4"
+  meta: ">=1.8.0"
+  nm: ">=0.5.0"
 
 dev_dependencies:
   flutter_test:
